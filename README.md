@@ -11,3 +11,6 @@ ADGEN 数据集任务是根据输入（content）生成一段广告词（summary
 }
 ```
 [下载](https://drive.google.com/file/d/13_vf0xRTQsyneRKdD1bZIr93vBGOczrk/view)
+
+## 预训练模型
+[下载地址](https://huggingface.co/THUDM/chatglm2-6b/tree/main)
